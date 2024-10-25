@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://furupopu.github.io/sitemap/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/wSU/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/SmK/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/HfJ/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/bJe/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/TbL/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/GZD/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/Mly/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/EeG/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/Iwa/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/Lhd/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/QLF/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/MCp/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/AoL/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/amG/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/cFZ/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/oae/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/VGR/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/Skb/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/gTa/sitemap_index.furupopu
+Sitemap: https://furupopu.github.io/dxc/sitemap_index.furupopu
